@@ -32,6 +32,7 @@
 
   <!-- External repos -->
   <project path="external/colorkt" name="ProtonAOSP/android_external_colorkt" remote="github" revision="sc-qpr3" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="evo-gitlab" />
   <project path="external/selinux" name="external_selinux" remote="evo" />
   <project path="external/themelib" name="ProtonAOSP/android_external_themelib" remote="github" revision="sc-qpr3" />
   <project path="external/tinycompress" name="external_tinycompress" remote="evo" />
@@ -126,6 +127,7 @@
   <!-- Packages (Apps) repos -->
   <project path="packages/apps/EvoEgg" name="packages_apps_EvoEgg" remote="evo" />
   <project path="packages/apps/Evolver" name="packages_apps_Evolver" remote="evo" />
+  <project path="packages/apps/FaceUnlockService" name="packages_apps_FaceUnlockService" remote="evo" />
   <project path="packages/apps/GCamGOPrebuilt" name="packages_apps_GCamGOPrebuilt" remote="evo" />
   <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="evo" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="evo" />
