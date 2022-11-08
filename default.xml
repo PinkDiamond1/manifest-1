@@ -1180,4 +1180,6 @@
   <include name="evolution.xml" />
   <!-- LineageOS -->
   <include name="lineage.xml" />
+  <!-- Pixel -->
+  <include name="pixel.xml" />
 </manifest>
